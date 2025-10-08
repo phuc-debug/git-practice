@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là <O Vinh Phuc>, MSSV <221528>.
+Giới thiệu: Tôi là O Vinh Phuc, MSSV 221528.
