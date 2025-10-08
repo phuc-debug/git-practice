@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Đây là README được chỉnh sửa từ nhánh main.
-=======
-Đây là README được chỉnh sửa từ nhánh conflict-demo.
->>>>>>> conflict-demo
+# Git Practice
+Giới thiệu: Tôi là <O Vinh Phuc>, MSSV <221528>.
